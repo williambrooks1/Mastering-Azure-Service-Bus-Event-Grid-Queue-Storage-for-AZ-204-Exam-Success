@@ -2,7 +2,7 @@
 
 <p data-end="934" data-start="503">If you are preparing for the Microsoft AZ-204: Developing Solutions for Microsoft Azure exam, mastering Azure messaging and event-driven services is essential. Topics like Azure Service Bus, Event Grid, and Queue Storage are high-impact areas that frequently appear in the exam. This guide explains their differences, use cases, and provides actionable tips to help you pass the Developing Solutions for Microsoft Azure AZ-204 exam on your first attempt</p>
 
-<p style="text-align: center;"><a href="https://ibb.co/0jszyD1G"><img alt="Mastering-Azure-Service-Bus" border="0" src="https://i.ibb.co/7Jk0tYB1/Mastering-Azure-Service-Bus.png" /></a></p>
+<p><a href="https://ibb.co/cKWdMxnG"><img alt="azure" border="0" src="https://i.ibb.co/rKBJTvrC/azure.png" /></a></p>
 
 <h2 data-end="987" data-start="941"><strong data-end="987" data-start="944">Why Messaging Services Matter Microsoft&nbsp;</strong><strong>Azure Developer Associate</strong><strong data-end="987" data-start="944">&nbsp;AZ-204 Exam</strong></h2>
 
