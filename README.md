@@ -8,7 +8,7 @@
 
 <p data-end="1277" data-start="989">Azure messaging services allow applications to communicate asynchronously, improving scalability, reliability, and decoupling of components. On the AZ-204 exam, understanding <strong data-end="1230" data-start="1164">when and how to use Service Bus, Event Grid, and Queue Storage</strong> is often tested in scenario-based questions.</p>
 
-<p data-end="1400" data-start="1279"><strong data-end="1296" data-start="1279">Key Takeaway:</strong> Candidates must understand <strong data-end="1397" data-start="1324">delivery guarantees, architectural patterns, and workload suitability</strong>.</p>
+<p data-end="1400" data-start="1279">Candidates must understand <strong data-end="1397" data-start="1324">delivery guarantees, architectural patterns, and workload suitability</strong>.</p>
 
 <p data-end="1400" data-start="1279"><strong data-end="1468" data-start="1410">1. Azure Service Bus &ndash; Enterprise Messaging Simplified</strong></p>
 
@@ -37,7 +37,7 @@
 	</li>
 </ul>
 
-<p data-end="2277" data-start="2091"><strong data-end="2114" data-start="2091">Tip for Candidates:</strong> On AZ-204, scenario-based questions may ask which service supports <strong data-end="2236" data-start="2182">publish-subscribe messaging or guaranteed delivery</strong>&mdash;the correct answer is <strong data-end="2274" data-start="2259">Service Bus</strong>.</p>
+<p data-end="2277" data-start="2091">On AZ-204, scenario-based questions may ask which service supports <strong data-end="2236" data-start="2182">publish-subscribe messaging or guaranteed delivery</strong>&mdash;the correct answer is <strong data-end="2274" data-start="2259">Service Bus</strong>.</p>
 
 <h3 data-end="2338" data-start="2284"><strong data-end="2338" data-start="2287">2. Azure Event Grid &ndash; Event-Driven Architecture</strong></h3>
 
@@ -68,7 +68,7 @@
 	</li>
 </ul>
 
-<p data-end="2982" data-start="2834"><strong data-end="2847" data-start="2834">Exam Tip:</strong> Know scenarios where <strong data-end="2924" data-start="2869">Event Grid outperforms Service Bus or Queue Storage</strong>, especially for <strong data-end="2979" data-start="2941">event-driven, serverless solutions</strong>.</p>
+<p data-end="2982" data-start="2834">Know scenarios where <strong data-end="2924" data-start="2869">Event Grid outperforms Service Bus or Queue Storage</strong>, especially for <strong data-end="2979" data-start="2941">event-driven, serverless solutions</strong>.</p>
 
 <h3 data-end="3052" data-start="2989"><strong data-end="3052" data-start="2992">3. Azure Queue Storage &ndash; Lightweight, Reliable Messaging</strong></h3>
 
@@ -99,7 +99,7 @@
 	</li>
 </ul>
 
-<p data-end="3585" data-start="3445"><strong data-end="3458" data-start="3445">Exam Tip:</strong> Remember, Queue Storage is for <strong data-end="3524" data-start="3490">lightweight asynchronous tasks</strong>, while Service Bus handles <strong data-end="3582" data-start="3552">enterprise-grade scenarios</strong>.</p>
+<p data-end="3585" data-start="3445">Remember, Queue Storage is for <strong data-end="3524" data-start="3490">lightweight asynchronous tasks</strong>, while Service Bus handles <strong data-end="3582" data-start="3552">enterprise-grade scenarios</strong>.</p>
 
 <h2 data-end="3654" data-start="3592"><strong data-end="3654" data-start="3595">Comparing Service Bus, Event Grid, and Queue Storage</strong></h2>
 
@@ -146,7 +146,7 @@
 	</tbody>
 </table>
 
-<p data-end="4282" data-start="4139"><strong data-end="4151" data-start="4139">Pro Tip:</strong> AZ-204 scenario questions often ask which service to choose based on <strong data-end="4279" data-start="4221">delivery guarantees, complexity, and architecture type</strong>.</p>
+<p data-end="4282" data-start="4139">AZ-204 scenario questions often ask which service to choose based on <strong data-end="4279" data-start="4221">delivery guarantees, complexity, and architecture type</strong>.</p>
 
 <h2 data-end="4334" data-start="4290"><strong data-end="4334" data-start="4293">Practice and Exam Preparation Tips</strong></h2>
 
